@@ -1,0 +1,7 @@
+#Sun May 09 18:09:18 BRT 2021
+base.0=/home/lz/juce_android_test_1/NewProject/Builds/Android/app/build/intermediates/dex/debug_Debug/mergeExtDexDebug_Debug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/lz/juce_android_test_1/NewProject/Builds/Android/app/build/intermediates/dex/debug_Debug/mergeProjectDexDebug_Debug/classes.dex

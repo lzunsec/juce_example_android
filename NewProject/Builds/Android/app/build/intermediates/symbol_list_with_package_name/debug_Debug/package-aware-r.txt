@@ -1,0 +1,2 @@
+com.yourcompany.newproject
+string app_name

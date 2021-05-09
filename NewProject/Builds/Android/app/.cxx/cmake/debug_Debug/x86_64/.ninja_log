@@ -1,0 +1,13 @@
+# ninja log v5
+0	23	0	clean	1cf680d10fede1fd
+0	3	0	clean	1cf680d10fede1fd
+1	17	1620594437	CMakeFiles/juce_jni.dir/home/lz/juce_android_test_1/NewProject/Source/Main.cpp.o	c908f936f7fa546
+1	61	1620594437	CMakeFiles/cpufeatures.dir/home/lz/Android/Sdk/ndk/21.0.6113669/sources/android/cpufeatures/cpu-features.c.o	ff9e19e415586353
+61	78	1620594437	libcpufeatures.a	250de42c786a1a29
+78	114	1620594437	../../../../build/intermediates/cmake/debug_Debug/obj/x86_64/libjuce_jni.so	4103b3e9e10b3248
+0	4	0	clean	1cf680d10fede1fd
+0	3	0	clean	1cf680d10fede1fd
+0	20	1620594551	CMakeFiles/juce_jni.dir/home/lz/juce_android_test_1/NewProject/Source/Main.cpp.o	c908f936f7fa546
+0	65	1620594551	CMakeFiles/cpufeatures.dir/home/lz/Android/Sdk/ndk/21.0.6113669/sources/android/cpufeatures/cpu-features.c.o	ff9e19e415586353
+66	81	1620594551	libcpufeatures.a	250de42c786a1a29
+81	100	1620594551	../../../../build/intermediates/cmake/debug_Debug/obj/x86_64/libjuce_jni.so	4103b3e9e10b3248

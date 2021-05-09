@@ -1,0 +1,4 @@
+/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/release_Release/x86_64/CMakeFiles/rebuild_cache.dir
+/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/release_Release/x86_64/CMakeFiles/edit_cache.dir
+/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/release_Release/x86_64/CMakeFiles/juce_jni.dir
+/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/release_Release/x86_64/CMakeFiles/cpufeatures.dir

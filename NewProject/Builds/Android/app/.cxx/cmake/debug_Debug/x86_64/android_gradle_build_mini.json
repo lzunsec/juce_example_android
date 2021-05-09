@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/lz/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/lz/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/home/lz/juce_android_test_1/NewProject/Builds/Android/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/lz/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/lz/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "juce_jni-Debug-x86_64": {
+      "artifactName": "juce_jni",
+      "buildCommand": "/home/lz/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/x86_64\" juce_jni",
+      "abi": "x86_64",
+      "output": "/home/lz/juce_android_test_1/NewProject/Builds/Android/app/build/intermediates/cmake/debug_Debug/obj/x86_64/libjuce_jni.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Debug-x86_64": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/home/lz/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/x86_64\" cpufeatures",
+      "abi": "x86_64",
+      "output": "/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/x86_64/libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}

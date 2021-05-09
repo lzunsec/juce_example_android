@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/arm64-v8a'
+ninja: no work to do.

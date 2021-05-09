@@ -1,0 +1,7 @@
+Executable : /home/lz/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/lz/juce_android_test_1/NewProject/Builds/Android/app/.cxx/cmake/debug_Debug/arm64-v8a
+juce_jni
+jvmArgs : 
+
